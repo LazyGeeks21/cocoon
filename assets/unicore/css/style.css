@@ -7989,6 +7989,7 @@ i{
 }
 
 @media (max-width: 767px) {
+	#exCollapsingNavbar{background-color:#333333;}
 
 
     .navbar-dropdown .navbar-toggleable-sm {
