@@ -23,7 +23,7 @@
 .mbr-navbar__container {
   height: 98px;
 }
-#hey,#hey1,#hey2,#hey3{color:#ffffff; line-height:inherit;}
+
 .mbr-navbar--ss .mbr-navbar__brand-link:after,
 .mbr-navbar--ss .mbr-navbar__brand-img {
   height: 74px;
@@ -1996,6 +1996,7 @@ a.text-black:focus {
   padding: 180px 0 0;
   overflow: hidden;
 }
+#hey,#hey1,#hey2,#hey3{color:#ffffff; line-height:inherit;}
 
 .intro9 h3 {
   color: #fff;
