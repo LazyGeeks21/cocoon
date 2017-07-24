@@ -4818,6 +4818,7 @@ footer .list-inline li {
 .slick-dots li {
   float: left;
   margin-right: 7px;
+	background-color:##167ac6;
 }
 
 .slick-dots li button {
