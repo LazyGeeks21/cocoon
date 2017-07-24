@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-07-17_0150",
+    "name": "Cocoon : Lazy Geeks",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -17,11 +17,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/layer-1-128x194.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ic-desktop-windows-black-48dp-2x-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -48,7 +48,7 @@
           },
           "_anchor": "header1-s",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
             "iconsColor": "#fff",
             "parallax": false,
@@ -108,60 +108,6 @@
           "text2": "There is a huge gap between the knowledge acquired at the academic institutions and the skills required by the industry. We bridge this gap by providing you the adequate environment to learn &amp; develop."
         },
         {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".btn SPAN": {
-              "font-size": "21px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-6",
-          "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/layer-1-84x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cocoon</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-7\">what is This?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-i\">Why this?&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-info\" href=\"#\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Visit lazy Geeks</a></li>"
-        },
-        {
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -186,7 +132,7 @@
             "overlayOpacity": "0.5",
             "overlayColor": "#151515"
           },
-          "title": "What is Cocoon?",
+          "title": "What is Cocoon?<br><br>",
           "text": ""
         },
         {
@@ -315,7 +261,9 @@
             "B": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "18px"
             },
             "I": {
               "text-align": "center"
@@ -355,13 +303,13 @@
           "button5": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu5-1\"><i class=\"fa fa-star fa-3x\"></i></a>",
           "title5": "Upload<br />information",
           "subtitle1": "Get Gripped",
-          "text1": "<b>Enroll into our list of Cocoons by registering yourself with us. Furnish all the necessary details required and take a step ahead into the professional world, where the lazy you meet the professional you. The stepping stone to your future edeavours. This is where it all begins!&nbsp;</b><br>",
+          "text1": "<b>Enroll into our list of Cocoons by registering yourself with us. Furnish all the necessary details required and take a step ahead into the professional world, where the lazy you meets the<i> professional</i> you. The stepping stone to your future endeavours. This is where it all begins!&nbsp;</b><br>",
           "subtitle2": "&nbsp;Spin The Cocoon",
           "text2": "<b>By getting featured in our esteemed list of Cocoons, you agree to spin the cocoon of nourishment supervised by us. It's spun by love and hard work of Lazy Geeks which ensures your all round development at every instant. The first stage of getting yourself transfigured from a Cocoon to young all ready Butterfly.&nbsp;</b><br>",
           "subtitle3": "Metamorphosis",
           "text3": "<b>The process of transformation from an immature form to an adult form in two or more distinct stages. This process will be the time when the Cocoon will be worked upon by us, by our love and care &amp; provided with all sorts of help to guide it excel through a professional world where it gets mature and is free to fly like a butterfly.&nbsp;</b><br>",
           "subtitle4": "Ready to Fly&nbsp;",
-          "text4": "<b>The final stage when the Cocoon has matured enough to break the bounds of guardianship and go over with a fine-tooth comb into the sky to fly high like an adult Butterfly. The stage when our fellow mates are all ready to step into the world where they get to see &amp; face the professional outlook of life. We leave you prepared go catch your dreams along with us!</b>",
+          "text4": "<b>The final stage when the Cocoon has matured enough to break the bounds of guardianship and go over with a fine-tooth comb into the sky to fly high like an adult Butterfly. The stage when our fellow mates are all ready to step into the world where they get to see &amp; face the professional outlook of life. We leave you prepared,go catch your dreams along with us!</b>",
           "subtitle5": "Upload Information",
           "text5": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut."
         },
@@ -392,10 +340,15 @@
           },
           "text1_1": "Step ahead to rise high. Come join hands and explore the new you.<br>We hope this Cocoon be fruitful for you and may help you <br>realise your inner potential.<br>Right time to initiate, build your skills that the world will appreciate.<br>All the Best.",
           "text1_2": "deepanshu sharma - ceo/full stack developer",
-          "text2_1": "Develop in a shell Spun by Lazy Geeks we'll help you fly with stronger wings.<br>I am sure you will love this. <br>#Turning_today's_lazy_into_tomorrow's_geek",
+          "text2_1": "Develop in a shell spun by Lazy Geeks. We will help you fly high with strong wings of wisdom! I'm sure you are going to fall in love with our way of weaving a cocoon around you! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>",
           "text2_2": "Jatin verma- CMO/chief editor",
-          "text3_1": "Hand of help that can motivate. You'll release that why are you so fortunate                        ⁠⁠⁠⁠<br>Don't stop and prepare to step forward with us u will grow and learn, don't give up that's an act of coward.<br>",
-          "text3_2": "kritika phulli - chief communications officer"
+          "text3_1": "Hand of help that can motivate you to do better. That can make your fortunes turn around. Don't stop and prepare to step ahead. With us you will grow and learn. Don't give up and go all guns blazing!<br>",
+          "text3_2": "kritika phulli - chief communications officer",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "alias": "unicore/components",
@@ -435,8 +388,62 @@
             "showButtons": true
           },
           "title": "This cocoon is spun with love by lazy geeks.",
-          "text": "<b>Exclusively Available For Lazy Geeks Family. </b><br><b>Intrested in Joining the Family!</b><br><b><i>Visit</i></b> <b>Us</b>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"#\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; padding-right:10px;\"></span>Visit Lazy Geeks</a>"
+          "text": "<b>Exclusively Available For Lazy Geeks Family. </b><br><b>Intrested in Joining the Family?</b><br><b><i>Visit</i></b> <b>Us</b>!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://lazygeeks21.github.io/comingsoon/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; padding-right:10px;\"></span>Visit Lazy Geeks</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn SPAN": {
+              "font-size": "21px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-v",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/layer-1-84x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cocoon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-7\">what is This?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box18-i\">Why this?&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-info\" href=\"https://lazygeeks21.github.io/comingsoon/\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Visit lazy Geeks</a></li>"
         },
         {
           "alias": "unicore/components",
@@ -444,14 +451,14 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-e",
+          "_anchor": "contacts4-w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
-            "bgColor": "#333333",
+            "bgColor": "#333",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -467,15 +474,15 @@
               "stateDetails": ""
             }
           },
-          "title1": "<br><br><br><br>lazy geeks:cocoon",
-          "text1": "<b>“COCOON the shell of nourishment spun with love and hard work of LAZY GEEKS for your advancement”.<br>Get ready to fly so that you can earn a pie!</b>”<br><br><br><br><br>",
-          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><em></em></a>      ",
+          "title1": "<a href=\"https://lazygeeks21.github.io/comingsoon/\">lazy</a> <a href=\"https://lazygeeks21.github.io/comingsoon/\">geeks</a> : cocoon",
+          "text1": "<b>“COCOON the shell of nourishment spun with love and hard work of LAZY GEEKS for your advancement”.<br>Get ready to fly so that you can earn a pie!”<br></b><br>",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><em>Our mailing address is :</em><br><em><br></em><em>visit.lazygeeks@gmail.com</em></a>     <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a> ",
           "text2": "",
-          "title": "We always got your back.",
+          "title": "We always got your back",
           "form": {
-            "action": "visit.lazygeeks@gmail.com",
+            "action": "sharma.deepanshu97@gmail.com",
             "alerts": {
-              "success": "Will reach back to you soon.."
+              "success": "We will reach back to you soon."
             },
             "fields": {
               "name": {
@@ -494,7 +501,32 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>&nbsp; Send Message &nbsp; &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>"
+        },
+        {
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColor": "#111",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515"
+          },
+          "text": "© 2017. lazy geeks. all right reserved."
         }
       ]
     }

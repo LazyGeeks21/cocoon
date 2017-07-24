@@ -116,7 +116,6 @@
 }
 
 @media (max-width: 991px) {
-	#exCollapsingNavbar{background-color:#333333;}
 
   .mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__brand-img,
   .mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__container {
@@ -127,7 +126,6 @@
 }
 
 @media (max-width: 768px) {
-	#exCollapsingNavbar{background-color:#333333;}
   .mbr-navbar__brand-img {
     padding-left: 10px;
   }
